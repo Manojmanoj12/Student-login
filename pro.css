@@ -1,0 +1,23 @@
+
+#nav
+{
+ 
+  background-color: blueviolet;
+}
+a
+{
+    text-decoration: none;
+    padding-left: 30px;
+    color: silver;
+    
+}
+form
+{
+  margin-top: 100px;
+  
+}
+#img
+{
+  padding-top: 5px;
+  margin-top: 50px;
+}
